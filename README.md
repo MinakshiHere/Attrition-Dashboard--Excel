@@ -1,2 +1,2 @@
-# Attrition-Dashboard--Excel
+# AttritionDashboard Excel
 Guided Project on Data Visualization using Excel.
